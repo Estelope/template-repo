@@ -7,18 +7,24 @@ uploading gitignore is always first step
 #### A ready-to-use project starter pack with pre-configured settings, testing, documentation, and best practices.
 
 ## Technologies Used
-
 * HTML/CSS
 * Markdown
-* Github
-* JavaScript ES6
+* Github / git
+* JavaScript
 * Browsers
+* JSON
+* npm
+* webpack
+* eslint
+* Jest
+* Babel
 ## Dependencies
 * Babel for transpiling the code.
 * Bootstrap for styling the app.
 * Jest for testing.
 * ESLint for linting.
 * Webpack for bundling the code.
+* Webpack dev server to open a browser instance with script 
 
 
 ## Description
@@ -32,14 +38,13 @@ DESCRIPTION
 * requires internet connection to load
 * simply click the link to view live installment on GH pages 
  or
-* Navigate to top level of directory
-* open index.html in compatible web browser
+ * Clone the repository to your local machine.
 * below is the link for cloning the repo and instructions 
 * repo:
-* Clone the repository to your local machine.
-* Run npm install to install all dependencies.
-* Run npm run build to build the project.
-* open index.html in compatible web browser
+* Run "npm install" to install all dependencies.
+* Run "npm run build" to build the project.
+* test the project "npm run test"
+* open index.html in compatible web browser with "npm run start"
 
 
 ## Known Bugs
